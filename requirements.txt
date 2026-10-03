@@ -1,0 +1,4 @@
+# wordcount is standard-library only: it has no runtime dependencies.
+# The line below pins the test runner so `pip install -r requirements.txt`
+# followed by `python3 -m pytest -q` reproduces the suite from a clean checkout.
+pytest>=8.0,<10.0

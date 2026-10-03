@@ -1,0 +1,9 @@
+# local environment and secrets
+.env
+
+# python bytecode and tooling caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
