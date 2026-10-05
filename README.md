@@ -99,7 +99,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-The repository contains 26 files of Full-stack app source, organised under `fixtures/`, `tests/`. Kick off `./install.sh` to pull packages and seed the database, then the app is up. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
+The repository contains 16 files of Full-stack app source, organised under `fixtures/`, `tests/`. Kick off `./install.sh` to pull packages and seed the database, then the app is up. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
 
 ## FAQ
 
